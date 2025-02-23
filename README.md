@@ -41,4 +41,4 @@
 - `writePNG()` 함수에서 `libpng` 라이브러리를 사용하므로, 실행 환경에 `libpng`가 설치되어 있어야 한다.
 - 이미지 크기(112x112)는 `numRows` 및 `numCols` 값을 수정하여 조정할 수 있다.
 
-![image](https://github.com/user-attachments/assets/55653cb9-d95e-4820-bcb8-9959e3d347f0)
+
